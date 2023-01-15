@@ -7,7 +7,7 @@ I have a passion for learning about computer networking, Linux, programming, and
 <a href="https://github.com/jamesyoung-15" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://jamesyoung-15.github.io/index.html" target="_blank">
+<a href="https://www.linkedin.com/in/jamesyyoung/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="mailto: jyyoungaa@connect.ust.hk" target="_blank">
