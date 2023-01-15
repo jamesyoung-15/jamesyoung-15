@@ -1,4 +1,19 @@
-- 👋 Hi, I’m @jamesyoung-15
+# 👋 Hi, I’m @jamesyoung-15
+Hello! I'm James Young, a 3rd year electronic engineering student at The Hong Kong University of Science and Technology (HKUST).
+# About Me
+I have a passion for learning about computer networking, Linux, programming, and computer hardware.
+# Contact
+<div>
+<a href="https://github.com/rishavanand" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/rishavanand" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/rishavanand" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div>  
 
 <!---
 jamesyoung-15/jamesyoung-15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
