@@ -2,6 +2,11 @@
 Hello! I'm James Young, a 3rd year electronic engineering student at The Hong Kong University of Science and Technology (HKUST).
 # About Me
 I have a passion for learning about computer networking, Linux, programming, and computer hardware.
+# Skills
+Programming Languages: C++, Javascript, Python, SQL (MySQL)
+Frameworks: NodeJS
+Tools/Software: Git, Docker, Linux
+Hardware: ESP32, STM32, Arduino, Raspberry PI
 # Contact
 <div>
 <a href="https://github.com/jamesyoung-15" target="_blank">
