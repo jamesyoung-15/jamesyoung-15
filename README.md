@@ -6,9 +6,9 @@ I have a passion for learning about computer networking, Linux, programming, and
 Here is my ![Resume](https://github.com/jamesyoung-15/resume/blob/main/resume1/resume_1.pdf)
 
 # Skills
-Programming Languages: C++, Javascript, Python, SQL (MySQL)
+Programming Languages: C++, Javascript, Python, SQL (Postgresql)
 
-Frameworks: NodeJS
+Frameworks: NodeJS, Django
 
 Tools/Software: Git, Docker, Linux
 
