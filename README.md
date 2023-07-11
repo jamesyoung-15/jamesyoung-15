@@ -3,12 +3,14 @@ Hello! I'm James Young, a 3rd year electronic engineering student at The Hong Ko
 # About Me
 I have a passion for learning about computer networking, Linux, programming, and computer hardware.
 
+Here is my ![website](https://jamesyoung-15.github.io/).
+
 Here is my ![resume](https://github.com/jamesyoung-15/resume/blob/main/resume1/resume_1.pdf).
 
 # Skills
 Programming Languages: C++, Javascript, Python, SQL (Postgresql)
 
-Frameworks: NodeJS, Django
+Frameworks: NodeJS, Django, ReactJS
 
 Tools/Software: Git, Docker, Linux
 
