@@ -8,7 +8,7 @@ Here is my ![website](https://jamesyoung-15.github.io/).
 Here is my ![resume](https://github.com/jamesyoung-15/resume/blob/main/resume1/resume_1.pdf).
 
 # Skills
-Programming Languages: C++, Javascript, Python, SQL (Postgresql)
+Programming Languages: Javascript, C++, Python, SQL (Postgresql), HTML/CSS
 
 Frameworks: NodeJS, Django, ReactJS
 
@@ -24,7 +24,7 @@ Hardware: ESP32, STM32, Arduino, Raspberry PI
 <a href="https://www.linkedin.com/in/jamesyyoung/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="mailto: jyy.young@proton.me" target="_blank">
+<a href="mailto: jyyoungdev@proton.me" target="_blank">
 <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt=email style="margin-bottom: 5px;" />
 </a>
 </div>  
