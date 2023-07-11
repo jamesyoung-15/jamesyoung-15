@@ -3,7 +3,7 @@ Hello! I'm James Young, a 3rd year electronic engineering student at The Hong Ko
 # About Me
 I have a passion for learning about computer networking, Linux, programming, and computer hardware.
 
-Here is my ![website](https://jamesyoung-15.github.io/).
+Here is my ![website](jamesyoung-15.github.io/).
 
 Here is my ![resume](https://github.com/jamesyoung-15/resume/blob/main/resume1/resume_1.pdf).
 
