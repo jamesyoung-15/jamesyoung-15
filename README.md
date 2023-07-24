@@ -14,7 +14,9 @@ Frameworks: NodeJS, Django, ReactJS
 
 Tools/Software: Git, Docker, Linux
 
-Hardware: ESP32, STM32, Arduino, Raspberry PI
+Hardware Platforms: ESP32, STM32, Arduino, Raspberry PI
+
+Hardware Communication Protocols: UART, I2C, ADC, CAN, SPI
 
 # Contact
 <div>
