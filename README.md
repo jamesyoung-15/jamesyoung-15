@@ -5,7 +5,9 @@ I have a passion for learning about computer networking, Linux, programming, and
 
 Here is my [website](https://jamesyoung-15.github.io/).
 
-Here is my ![resume](https://github.com/jamesyoung-15/resume/blob/main/resume1/resume_1.pdf).
+Here is my ![resume for embedded software development.](https://github.com/jamesyoung-15/resume/blob/main/resume1/resume_5.pdf).
+
+<!--Here is my ![resume for software development]().-->
 
 # Skills
 Programming Languages: Javascript, C++, Python, SQL (Postgresql), HTML/CSS
