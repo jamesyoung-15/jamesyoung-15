@@ -12,13 +12,13 @@ Here is my ![resume for embedded software development.](https://github.com/james
 # Skills
 Programming Languages: Javascript, C++, Python, SQL (Postgresql), HTML/CSS
 
-Frameworks: NodeJS, Django, ReactJS
+Frameworks: NodeJS
 
 Tools/Software: Git, Docker, Linux
 
 Hardware Platforms: ESP32, STM32, Arduino, Raspberry PI
 
-Hardware Communication Protocols: UART, I2C, ADC, CAN, SPI
+Hardware Communication Protocols: UART, I2C, ADC, SPI
 
 # Contact
 <div>
