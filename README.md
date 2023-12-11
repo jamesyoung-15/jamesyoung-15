@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @jamesyoung-15
-Hello! I'm James Young, a 3rd year electronic engineering student at The Hong Kong University of Science and Technology (HKUST).
+Hello! I'm James Young, a final year undergraduate electronic engineering student at The Hong Kong University of Science and Technology (HKUST).
 # About Me
 I have a passion for learning about computer networking, Linux, programming, and computer hardware. My main interests are in backend development and embedded software development.
 
@@ -14,7 +14,7 @@ Programming Languages: Javascript, C++, Python, SQL (Postgresql), HTML/CSS
 
 Frameworks: NodeJS
 
-Tools/Software: Git, Docker, Linux
+Tools/Software: Git, Docker, Linux, AWS
 
 Hardware Platforms: ESP32, STM32, Arduino, Raspberry PI
 
