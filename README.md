@@ -5,7 +5,7 @@ I have a passion for learning about computer networking, Linux, programming, and
 
 Here is my [website](https://portfolio.jyylab.com/).
 
-Here is my ![resume for embedded software development.](https://github.com/jamesyoung-15/resume/blob/main/resume5/resume_5.pdf).
+Here is my ![resume.](https://resume5.jyylab.com/).
 
 <!--Here is my ![resume for software development]().-->
 
