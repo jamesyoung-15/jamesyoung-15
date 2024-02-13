@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @jamesyoung-15
 Hello! I'm James Young, a final year undergraduate electronic engineering student at The Hong Kong University of Science and Technology (HKUST).
 # About Me
-I have a passion for learning about computer networking, Linux, programming, and computer hardware. My main interests are in backend development and embedded software development.
+I have a passion for learning about computer networking, Linux, programming, and computer hardware. My main interest are in cloud engineering and DevOps.
 
 Here is my [website](https://portfolio.jyylab.com/).
 
