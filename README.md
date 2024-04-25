@@ -10,11 +10,11 @@ Here is my [resume.](https://resume5.jyylab.com/).
 <!--Here is my ![resume for software development]().-->
 
 # Skills
-Programming Languages: Javascript, C++, Python, SQL (Postgresql), HTML/CSS
+Programming Languages: Javascript, C++, Python, HTML/CSS
 
-Frameworks: NodeJS
+Tools/Software: Linux, Git, Docker, Ansible, Jenkins, Kubernetes
 
-Tools/Software: Git, Docker, Linux, AWS
+Cloud: AWS (DynamoDB, S3, EC2, Lambda)
 
 Hardware Platforms: ESP32, STM32, Arduino, Raspberry PI
 
