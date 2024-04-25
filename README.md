@@ -10,7 +10,7 @@ Here is my [resume.](https://resume5.jyylab.com/).
 <!--Here is my ![resume for software development]().-->
 
 # Skills
-Programming Languages: Javascript, C++, Python, HTML/CSS
+Programming Languages: Python, Javascript, C++, HTML/CSS
 
 Tools/Software: Linux, Git, Docker, Ansible, Jenkins, Kubernetes
 
