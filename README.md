@@ -8,5 +8,3 @@ Here is my [website](https://portfolio.jyylab.com/).
 
 Here is my [resume](https://resume1.jyylab.com/).
 
-## Contact
-Send me [email](mailto:jyyoungdev@proton.me).
