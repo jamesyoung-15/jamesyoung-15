@@ -6,7 +6,7 @@ I have a passion for cloud computing, embedded systems, and software development
 
 Here is my [website](https://portfolio.jyylab.com/)
 
-Here is my [resume](https://resume.jyydev.xyz/temp-resume/resume_2.pdf).
+Here is my [resume](https://resume.jyydev.xyz/resume_3/resume_3.pdf).
 
 ## Contact
 
