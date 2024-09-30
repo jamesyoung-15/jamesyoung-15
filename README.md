@@ -2,8 +2,6 @@
 
 Hello! I'm a recent Electronic Engineering graduate from HKUST and I am currently pursuing a Master's in Computer Science at Boston University.
 
-I have a passion for cloud computing, embedded systems, and software development. 
-
 Here is my [website](https://portfolio.jyylab.com/)
 
 Here is my [resume](https://resume.jyydev.xyz/resume3/resume_3.pdf).
