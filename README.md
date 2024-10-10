@@ -4,7 +4,7 @@ Hello! I'm a recent Electronic Engineering graduate from HKUST and I am currentl
 
 Here is my [website](https://portfolio.jyylab.com/)
 
-Here is my [resume](https://resume.jyydev.xyz/resume3/resume_3.pdf).
+Here is my [resume](https://resume.jyydev.xyz/resume1/resume_1.pdf).
 
 ## Contact
 
