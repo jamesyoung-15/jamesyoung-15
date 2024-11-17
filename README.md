@@ -1,6 +1,8 @@
 # 👋 Hi, I’m James Young
 
-Hello! I'm a recent Electronic Engineering graduate from HKUST and I am currently pursuing a Master's in Computer Science at Boston University.
+Hello! I'm a student pursuing a Master's in Computer Science at Boston University. I did my undergraduate degree at The Hong Kong University of Science and Technology in Electronic Engineering (BEng Electronic Engineering). 
+
+My interests are in cloud computing (AWS), Linux and System administration, and DevOps.
 
 Here is my [website](https://portfolio.jyylab.com/)
 
