@@ -6,7 +6,7 @@ My interests are in cloud computing (AWS), Linux and System administration, and 
 
 Here is my [website](https://portfolio.jyylab.com/)
 
-Here is my [resume](https://resume.jyydev.xyz/resume1/resume_1.pdf).
+Here is my [resume](https://resume.jyyhomelab.com/).
 
 ## Contact
 
