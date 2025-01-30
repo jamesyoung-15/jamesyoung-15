@@ -4,7 +4,7 @@ Hello! I'm a student pursuing a Master's in Computer Science at Boston Universit
 
 My interests are in cloud computing (AWS), Linux and System administration, and DevOps.
 
-Here is my [website](https://portfolio.jyylab.com/) and my [blog](https://blog.jyylab.com).
+Here is my [website](https://jyyoung.com) and my [blog](https://blog.jyylab.com).
 
 Here is my [resume](https://resume.jyyhomelab.com/).
 
