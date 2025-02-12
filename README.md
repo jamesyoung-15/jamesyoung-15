@@ -2,7 +2,7 @@
 
 Hello! I'm a student pursuing a Master's in Computer Science at Boston University. I did my undergraduate degree at The Hong Kong University of Science and Technology in Electronic Engineering (BEng Electronic Engineering). 
 
-My interests are in cloud computing (AWS), Linux and System administration, and DevOps.
+My interests are in data science, software development, DevOps, and Linux.
 
 Here is my [website](https://jyyoung.com) and my [blog](https://blog.jyylab.com).
 
