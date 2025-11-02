@@ -1,6 +1,8 @@
 # James Young
 
-Hello! Right now I'm a SWE intern at Granite Telecommunications and am currently pursuing a Master's in Computer Science at Boston University. I did my undergraduate degree at The Hong Kong University of Science and Technology in Electronic Engineering (BEng Electronic Engineering). 
+Hello! I'm James and I like building random software projects and tinkering with electronics!
+
+Right now I'm a SWE intern at Granite Telecommunications and am currently pursuing a Master's in Computer Science at Boston University. I did my undergraduate degree at The Hong Kong University of Science and Technology in Electronic Engineering (BEng Electronic Engineering). 
 
 - [Website](https://jyyoung.com)
 - [Blog](https://blog.jyylab.com)
