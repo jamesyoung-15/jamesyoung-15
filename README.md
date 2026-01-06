@@ -8,4 +8,4 @@ Hello! I'm James, currently an Infrastructure Engineer working at American Famil
 
 ## Contact
 
-- Email: [jyyoung@bu.edu](mailto:jyyoung@bu.edu) or [jyyoung@jyymail.com](mailto:jyyoung@jyymail.com)
+- Email: [jyyoung@jyymail.com](mailto:jyyoung@jyymail.com)
