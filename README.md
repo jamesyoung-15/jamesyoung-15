@@ -4,7 +4,7 @@ Hello! I'm James and I'm currently an Infrastructure Engineer working at America
 
 - [Website](https://jyyoung.com)
 - [Blog](https://blog.jyylab.com)
-- [Resume](https://resume.jyyhomelab.com/)
+- [Resume](https://raw.githubusercontent.com/jamesyoung-15/resume/refs/heads/main/resume-main/resume.pdf)
 
 ## Contact
 
