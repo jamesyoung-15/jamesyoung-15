@@ -1,6 +1,6 @@
 # James Young
 
-Hello! I'm James and I'm currently an Infrastructure Engineer working at American Family Insurance. In my free time, I like building random projects and tinkering with electronics!
+Hello! I'm James and I'm currently a Platform Engineer where I mainly work on infrastructure automation. In my free time, I like building random projects and tinkering with electronics!
 
 - [Website](https://jyyoung.com)
 - [Blog](https://blog.jyylab.com)
